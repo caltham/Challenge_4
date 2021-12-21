@@ -330,11 +330,11 @@ berk_beta.plot(legend = True, figsize=(15, 8), color = "red", label = "Berkshire
 
 **Question: Which of the two portfolios seem more sensitive to movements in the S&P 500?**
 
-Answer: 
+Answer: Based on the data, specifically the beta means, the Berkshire Hathaway INC fund seems to be more sensitive to the movements in the S&P 500 than the Tiger Global Management LLC fund.
 
 **Question: Which of the two portfolios do you recommend for inclusion in your firm’s suite of fund offerings?**
 
-Answer: 
+Answer: Based on the rolling beta and the cummulative return it is clear that the Berkshire Hathaway INC fund is the appropriate choice.
 
 ## Contributors
 
